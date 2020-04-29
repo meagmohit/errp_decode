@@ -13,7 +13,7 @@ Note:
 All the results and analysis is in `data_analysis/` folder
 
 ## Motivation Results
-Run `rl_errp.py`:
+- Activate conda environment `ml-py37-gpu` and run `rl_errp.py`
 - Change `p_err_sim` flag to the decoding accuracy of errp (e.g., 0.6,0.7, etc.)
 - Copy/paste the values to plot folder, and run `plot_erp_arl_all.py`
 
